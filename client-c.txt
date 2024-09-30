@@ -1,4 +1,8 @@
 # Client Task C #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
+Start at 2, while less than 50 increment by 2 at each iteration.
 
+Print the count after each package is scanned
+
+When the count reaches 50 Print “Case full” Start again at 2 when the next package is scanned.

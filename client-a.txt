@@ -1,4 +1,11 @@
 # Client Task A #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
-
+Pick random number from 1 to 10;
+Prompt player to input their guess of a number between 1 and 10.
+If playerNumber = randomNumber print “Congratulations, you guessed it!
+	End loop
+Else print “Sorry, try again”
+	Prompt player to input their guess of a number between 1 and 10.
+	Increment playerGuesses +1 
+If playerGuesses = 3 Print “Sorry, you lose! Better luck next.” 

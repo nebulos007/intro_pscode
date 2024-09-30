@@ -1,4 +1,14 @@
 # Client Task B #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
+Create a grid to represent the layout of the warehouse, mark the locations that are walkable and those that are blocked, and the locations of all products in the warehouse.The starting location always begins at the warehouse entrance.
 
+Prompt the user to enter the product they want to find.
+
+Print the directions for the user in steps- for example: East, East, North, North.
+
+Update the starting position to the user’s location after reaching the desired product.
+
+Ask if the user if they are done shopping or to enter the next desired product.
+	If done shopping provide directions to the checkout counter.
+	Else provide directions to next item.
